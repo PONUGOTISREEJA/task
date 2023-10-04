@@ -1,0 +1,5 @@
+tuple = ("apple","banana","cherry")
+tuples = list(tuple)
+print(tuples)
+tuples.insert(2,"kiwi")
+print(tuples)
